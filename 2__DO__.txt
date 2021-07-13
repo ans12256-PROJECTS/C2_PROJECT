@@ -1,0 +1,5 @@
+1) Create a reader python file with messages to pre-process images
+    1.1) Capture availability of the image, and update column "Available" accordingly
+    1.2) Evaluate multiple classifications imga files for example 2.jpg is mentioned 36 times in data/yoga_train.txt
+         how can 2.jpg be classified multiple times? File is not available
+         

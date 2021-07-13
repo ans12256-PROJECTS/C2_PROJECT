@@ -1,3 +1,11 @@
+# Lines starting with `#` are comments.
+
+# It's possible to combine both forms to ignore files with certain
+# extensions in certain directories. The following rules would be
+# redundant with generic rules defined above.
+img/*.jpg
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
