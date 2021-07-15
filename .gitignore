@@ -5,7 +5,9 @@
 # redundant with generic rules defined above.
 /img/**/*.jpg
 
-/KERAS_data/**/.*jpg
+* four (4) levels to ignore ****
+# /KERAS_data/TEST/YOGA_CLASSES_6/class_0/0_Chair_Pose_or_Utkatasana__10.jpg
+/KERAS_data/****/.*jpg
 
 
 
