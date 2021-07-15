@@ -10,6 +10,7 @@
 # /KERAS_data/****/.*jpg. Did not work
 KERAS_data/
 
+TRAINED_MODELS/
 
 
 # Byte-compiled / optimized / DLL files
