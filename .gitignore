@@ -5,6 +5,11 @@
 # redundant with generic rules defined above.
 /img/**/*.jpg
 
+/KERAS_data/**/.*jpg
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
